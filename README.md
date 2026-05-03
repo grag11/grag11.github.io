@@ -40,3 +40,9 @@ We may update this Privacy Policy from time to time. Changes will be reflected w
 10. Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
 📧 thetarot@mm.st
+
+Disclaimer
+The content provided by “The Tarot” app is for entertainment purposes only.
+AI-generated interpretations of tarot cards are not intended to be taken as factual, professional, financial, legal, medical, or psychological advice.
+Users should not rely on the app for making important decisions. Any actions taken based on the app’s content are done at the user’s own discretion and risk.
+We make no guarantees regarding the accuracy, completeness, or reliability of the information provided.
