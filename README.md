@@ -1,66 +1,97 @@
-Privacy Policy for “The Tarot”
+# Privacy Policy for The Tarot
 
-Effective date: 03 May 2026
+**Effective date:** May 3, 2026
 
-“The Tarot” (“we”, “our”, or “the app”) respects your privacy. This Privacy Policy explains how information is handled when you use the application.
+---
 
-1. Information We Collect
+## 1. Information We Collect
 
 We do not collect, store, or share any personal data from users.
 
-The app does not require registration and does not request personal information such as name, email address, or phone number.
+The app does not require registration and does not request personal information such as name, email address, phone number, or any other identifiable data.
 
-2. App Functionality and Internet Access
+---
 
-The app requires an internet connection to provide AI-generated tarot interpretations. User input (selected cards) is sent to an external AI service to generate responses. This data is processed in real time and is not stored by us.
+## 2. App Functionality and Internet Usage
 
-3. Advertising
+The Tarot app requires an internet connection to provide its core functionality.
+
+User-selected tarot cards are sent to an external AI service to generate interpretations. This data is processed in real time and is not stored by us.
+
+---
+
+## 3. Advertising
 
 The app uses third-party advertising services, including Google AdMob.
 
-AdMob may collect and process certain data (such as device information, advertising ID, and interaction data) to display personalized or non-personalized ads. This data is handled according to Google’s privacy policies.
+These services may collect and process certain data such as:
+- Device information
+- Advertising identifiers
+- Interaction data
 
-You can learn more here:
+This is used to display relevant ads and improve ad performance.
+
+For more information, see:
 https://policies.google.com/privacy
 
-4. Push Notifications
+---
 
-The app may send push notifications. These notifications are used to enhance user engagement and do not involve the collection of personal data.
+## 4. Push Notifications
 
-5. Data Storage
+The app may send push notifications to users.
 
-We do not store any user data on our servers. All interactions are processed in real time.
+Notifications are used to enhance user experience and engagement.
 
-6. Children’s Privacy
+We do not collect personal data through push notifications.
 
-The app is intended for general audiences, including children under 13.
-We do not knowingly collect personal information from children.
+---
 
-7. Third-Party Services
+## 5. Data Storage
 
-The app may interact with third-party services (such as AI providers and advertising networks) which may process data as part of their functionality. We do not control how these third parties handle data.
+We do not store any user data on our servers or locally.
 
-8. Security
+All interactions are processed in real time and immediately discarded.
 
-Since we do not collect or store user data, no personal data is retained by the app.
+---
 
-9. Changes to This Privacy Policy
+## 6. Third-Party Services
 
-We may update this Privacy Policy from time to time. Changes will be reflected within the app or on the app’s store listing.
+The app may use third-party services for:
+- AI processing of tarot interpretations
+- Advertising delivery
 
-10. Contact Us
+These services may process data according to their own privacy policies.
 
-If you have any questions about this Privacy Policy, you can contact us at:
+We do not control how third parties handle data.
+
+---
+
+## 7. Children’s Privacy
+
+The app is intended for general audiences, including users under 13 years old.
+
+We do not knowingly collect personal data from children.
+
+---
+
+## 8. Disclaimer
+
+The content provided by The Tarot is for entertainment purposes only.
+
+AI-generated tarot interpretations are not professional advice of any kind, including but not limited to:
+- Medical
+- Psychological
+- Legal
+- Financial
+
+Users should not rely on the app for making important life decisions. All actions taken based on the app content are at the user’s own risk.
+
+We do not guarantee the accuracy or reliability of any generated content.
+
+---
+
+## 9. Contact
+
+If you have any questions about this Privacy Policy, you can contact us:
 
 📧 thetarot@mm.st
-
-
-Disclaimer
-
-The content provided by “The Tarot” app is for entertainment purposes only.
-
-AI-generated interpretations of tarot cards are not intended to be taken as factual, professional, financial, legal, medical, or psychological advice.
-
-Users should not rely on the app for making important decisions. Any actions taken based on the app’s content are done at the user’s own discretion and risk.
-
-We make no guarantees regarding the accuracy, completeness, or reliability of the information provided.
